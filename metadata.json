@@ -1,0 +1,5 @@
+{
+  "name": "CyberShock Junction",
+  "description": "A System Shock Remake inspired junction box puzzle. Features an 8x8 grid with rotatable pipes, fixed segments, logic switches, and a full builder mode to create custom puzzles.",
+  "requestFramePermissions": []
+}
